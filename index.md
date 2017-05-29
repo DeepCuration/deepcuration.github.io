@@ -17,11 +17,21 @@ layout: default
 
 ## Data
 * [UPC](https://upc) processed data used in Deep Curation project: [hdf5 file](https://drive.google.com/file/d/0B9HcMitQmCtjSDQ3WWdIX1luaEE/view?usp=sharing)
-* Raw .CEL files obtained from GEO for processing: [here](https://drive.google.com/file/d/0B9HcMitQmCtjOTN1T3dWS3VpdlE/view?usp=sharing)
+* Raw .CEL files obtained from GEO for processing: [here](https://drive.google.com/file/d/0B9HcMitQmCtjOTN1T3dWS3VpdlE/view?usp=sharing) (400GB SquashFS filesystem image)
 
 ## Software
 * [OBOParse.jl](https://github.com/maximsch2/OBOParse.jl): A [Julia](https://julialang.org) library for parsing ontologies in Open Biomedical Ontologies format.
 * More will be available soon.
+
+
+## Publications
+* Wide-Open: accelerating public data release by automating detection of overdue datasets.  
+Maxim Grechkin, Hoifung Poon, and Bill Howe.
+In PLOS Biology, to appear.
+* Deep Curation: Scalable Annotation of Expression Samples with Zero Training Data.
+Maxim Grechkin, Bill Howe, and Hoifung Poon.
+In prep.
+
 
 ## People
 * [Maxim Grechin](https://homes.cs.washington.edu/~grechkin/)
