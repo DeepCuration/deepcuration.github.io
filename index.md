@@ -13,14 +13,14 @@ layout: default
 
 * Data Explorer: A preview version of data exploration tool is available [here](https://homes.cs.washington.edu/~grechkin/metageo/ver2/)
 
-
+* [Wide-Open](https://wideopen.github.io/datawatch/): detecting overdue datasets in GEO and SRA.
 
 ## Data
 * [UPC](https://upc) processed data used in Deep Curation project: [hdf5 file](https://drive.google.com/file/d/0B9HcMitQmCtjSDQ3WWdIX1luaEE/view?usp=sharing)
 * Raw .CEL files obtained from GEO for processing: [here](https://drive.google.com/file/d/0B9HcMitQmCtjOTN1T3dWS3VpdlE/view?usp=sharing)
 
 ## Software
-* [OBOParse.jl](https://github.com/maximsch2/OBOParse.jl): [Julia](https://julialang.org) library for parsing ontologies in Open Biomedical Ontologies format.
+* [OBOParse.jl](https://github.com/maximsch2/OBOParse.jl): A [Julia](https://julialang.org) library for parsing ontologies in Open Biomedical Ontologies format.
 * More will be available soon.
 
 ## People
