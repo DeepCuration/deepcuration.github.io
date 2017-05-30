@@ -34,7 +34,7 @@ In prep.
 
 
 ## People
-* [Maxim Grechin](https://homes.cs.washington.edu/~grechkin/)
+* [Maxim Grechkin](https://homes.cs.washington.edu/~grechkin/)
   PhD Student at Paul G. Allen School of Computer Science and Engineering, University of Washington
 * [Hoifung Poon](https://www.microsoft.com/en-us/research/people/hoifung/)
   Researcher at Microsoft Research
